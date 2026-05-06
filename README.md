@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 29, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/law-te2ool-bas-if-youd-just-say-it/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Apply for Music License: Law Te2ool Bas – If you’d just say it](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
