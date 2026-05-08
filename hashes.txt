@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Law Te2ool Bas – If you’d just say it
+
+This log tracks the cryptographic history and versioning for the song **Law Te2ool Bas – If you’d just say it** (law-te2ool-bas-if-youd-just-say-it).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T04:42:27.077164 | `v1` | `5b702f5d884117acf8455e6617c6871cccdeb0fffcd1baa516e6c12ea6bd9744` | `be5cd0ab6c388efd494e47709852b73aeed1c556bc668778508d2b4a28db138e` | `2026-05-09_law-te2ool-bas-if-youd-just-say-it-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
